@@ -25,6 +25,7 @@ Mi objetivo actual es ingresar al mercado laboral tecnológico para generar expe
 **¿Tecnologías?**
 
 🛠️ Actualmente utilizo **Javascrip | NodeJs | Express | PostgreSQL | React | Redux**
+Y tengo experiencia con Photoshop | CorelDraw | AfterEffects | Sony Vegas | Excel
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -32,8 +33,6 @@ Mi objetivo actual es ingresar al mercado laboral tecnológico para generar expe
 👨🏻‍💻
 
 [SuperMarket](https://supermarketpreview.vercel.app/)
-
-Y tengo experiencia con Photoshop | CorelDraw | AfterEffects | Sony Vegas | Excel
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
