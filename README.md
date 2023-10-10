@@ -20,6 +20,9 @@ Mi objetivo actual es ingresar al mercado laboral tecnológico para generar expe
 
 🛠️ Actualmente utilizo **Javascrip | NodeJs | Express | PostgreSQL | React | Redux**
 
+**Últimos proyectos**
+[SuperMarket](https://pages.github.com/](https://supermarketpreview.vercel.app/)
+
 Y tengo experiencia con Photoshop | CorelDraw | AfterEffects | Sony Vegas | Excel
 
 **¡No dudes en contactarme!**
