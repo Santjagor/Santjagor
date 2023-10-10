@@ -22,7 +22,7 @@ Mi objetivo actual es ingresar al mercado laboral tecnológico para generar expe
 
 Y tengo experiencia con Photoshop | CorelDraw | AfterEffects | Sony Vegas | Excel
 
-**No dudes en contactarme!**
+**¡No dudes en contactarme!**
 
 📧 santirigore@gmail.com
 
