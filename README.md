@@ -1,6 +1,6 @@
-**Hola! 👋**
+## **Hola! 👋**
 
-Mi nombre es Santiago Martin Solavaggione, tengo 32 años y soy de Tandil ⛰️ Buenos Aires, donde vivo con mi familia.
+### Mi nombre es Santiago Martin Solavaggione, tengo 32 años y soy de Tandil ⛰️ Buenos Aires, donde vivo con mi familia.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
