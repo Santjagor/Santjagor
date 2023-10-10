@@ -5,8 +5,11 @@ Mi nombre es Santiago Martin Solavaggione, tengo 32 años y soy de Tandil ⛰️
 **¿Que hago?**
 
 🖥️ Soy FullStack Developer.
+
 🎸 Músico y guitarrista con 17 años de experiencia en producción musical.
+
 🖼️ Diseñador gráfico freelance durante 10 años.
+
 💼 Administrativo y tesorero con 5 años de experiencia en servicios de gestión de oficinas.
 
 **¿Objetivo actual?**
@@ -16,6 +19,7 @@ Mi objetivo actual es ingresar al mercado laboral tecnológico para generar expe
 **¿Tecnologías?**
 
 🛠️ Actualmente utilizo **Javascrip | NodeJs | Express | PostgreSQL | React | Redux**
+
 Y tengo experiencia con Photoshop | CorelDraw | AfterEffects | Sony Vegas | Excel
 
 **No dudes en contactarme!**
