@@ -30,7 +30,8 @@ Mi objetivo actual es ingresar al mercado laboral tecnológico para generar expe
 
 **Últimos proyectos**
 👨🏻‍💻
-[SuperMarket](https://supermarketpreview.vercel.app/).
+
+[SuperMarket](https://supermarketpreview.vercel.app/)
 
 Y tengo experiencia con Photoshop | CorelDraw | AfterEffects | Sony Vegas | Excel
 
